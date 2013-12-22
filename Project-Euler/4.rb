@@ -14,5 +14,4 @@ array = []
 	end
 end		
 
-
 puts array.sort.last
